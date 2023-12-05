@@ -36,7 +36,7 @@ Feel free to contribute to this project or report issues you encounter.
 
 Happy task managing!
 
-##6.Run/Execute the program
+## 6.Run/Execute the program
 
  1. Change the current working directory and get inside in the folder Todo-CLI-App.  
  2. You can use "**cd** " commands 
