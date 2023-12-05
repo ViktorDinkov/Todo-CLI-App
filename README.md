@@ -40,7 +40,7 @@ Happy task managing!
  5. You can use "**cd** " commands 
  6. Exemple **cd** /home/usr/Todo-CLI-App
  7. And get to the src folder inside of Todo-CLI-App folder's
- 8. Make sure you are in the src folder , you can use pwd command in terminal .The output must to be something like (/home/usr/Todo-CLI-App)
+ 8. Make sure you are in the src folder , you can use **pwd** command in terminal .The output must to be something like (/home/usr/Todo-CLI-App)
  9. When you are in the src folder ,write in terminal  
  ```shell
  javac TodoList.java
