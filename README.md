@@ -36,12 +36,14 @@ Feel free to contribute to this project or report issues you encounter.
 
 Happy task managing!
 
- 4. Change the current working directory and get inside in the folder Todo-CLI-App.  
- 5. You can use "**cd** " commands 
- 6. Exemple **cd** /home/usr/Todo-CLI-App
- 7. And get to the src folder inside of Todo-CLI-App folder's
- 8. Make sure you are in the src folder , you can use **pwd** command in terminal .The output must to be something like (/home/usr/Todo-CLI-App)
- 9. When you are in the src folder ,write in terminal  
+##6.Run/Execute the program
+
+ 1. Change the current working directory and get inside in the folder Todo-CLI-App.  
+ 2. You can use "**cd** " commands 
+ 3. Exemple **cd** /home/usr/Todo-CLI-App
+ 4. And get to the src folder inside of Todo-CLI-App folder's
+ 5. Make sure you are in the src folder , you can use **pwd** command in terminal .The output must to be something like (/home/usr/Todo-CLI-App)
+ 6. When you are in the src folder ,write in terminal  
  ```shell
  javac TodoList.java
  java TodoList
